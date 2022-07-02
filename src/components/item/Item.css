@@ -21,7 +21,7 @@
 }
 
 .list{
-    text-align: center;
+    /* text-align: center; */
     font-size: .9rem;
     font-weight: 500;
     list-style-position: outside;
